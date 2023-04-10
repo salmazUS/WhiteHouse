@@ -11,8 +11,8 @@ else:
     print("incorrect")
 if c == 30:
     print("c =", c)
-    print("correct")
-name = input("what is your name? ")
+    print("correct!")
+name = input("what is your your name? ")
 print("Hello " + name)
 a=20
 b=20.1
